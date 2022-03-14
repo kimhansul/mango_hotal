@@ -1,0 +1,84 @@
+/* nav */
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+#navbar ul, #navbar ul li{
+    float: none;
+}
+#navbar ul li a{
+    padding: 6px;
+    border-bottom: 1px dotted #444;
+}
+
+/* showcase */
+#showcase{
+    height: 100%;
+}
+#showcase .showcase_content{
+    padding: 70px 0;
+}
+
+/* home info */
+#home_info{
+    height: 350px;
+}
+#home_info .info_img{
+    display: none;
+}
+#home_info .info_content{
+    float: none;
+    width: 100%;
+}
+
+/* box */
+.box{
+    float: none;
+    width: 100%;
+}
+
+/* about */
+#about_info .info_right, #about_info .info_left{
+    float: none;
+    width: 100%;
+}
+#about_info .info_right{
+    margin-top: 30px;
+}
+#about_info .info_left{
+    text-align: center;
+}
+#textimonials{
+    padding: 30px 0px;
+}
+#textimonials .textimonial img, #textimonials .textimonial blockquote{
+    float: none;
+}
+#textimonials .textimonial img{
+    display: block;
+    margin: 0 auto 10px;
+}
+#textimonials .textimonial blockquote{
+    width: 100%;
+}
+#textimonials .textimonial{
+    text-align: center;
+    padding: 20px 20px 40px;
+}
+
+/* contact */
+#contact_info .box{
+    border-bottom: 1px dotted #444;
+}
+#contact_form{
+    text-align: center;
+}
+#contact_form p{
+    padding-bottom: 40px;
+}
+#contact_form .form_group label{
+    text-align: left;
+}
+#contact_form .btn{
+    width: 100%;
+}
